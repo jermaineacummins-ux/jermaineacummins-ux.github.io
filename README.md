@@ -18,7 +18,7 @@ Based in Tilburg, Noord-Brabant.
 - AWS CLF-C02 in progress
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/jcecure/
+- LinkedIn: [linkedin.com/jcecure](https://www.linkedin.com/in/jcecure)
 - Blog: [europesovereign.com](https://europesovereign.com)
 
 ## Current focus
