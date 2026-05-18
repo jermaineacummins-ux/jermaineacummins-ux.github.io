@@ -3,7 +3,7 @@ Personal portfolio and IT lab documentation
 
 # J.A. Cummins
 
-Freelance IT Consultant | Orbiq B.V. | Tilburg, Netherlands
+Freelance IT Consultant | Tilburg, Netherlands
 
 ## About me
 IT Project Manager and Business Analyst with 7+ years of experience in manufacturing IT, cloud infrastructure and GxP regulated environments. 
@@ -18,7 +18,6 @@ Based in Tilburg, Noord-Brabant.
 - AWS CLF-C02 in progress
 
 ## Links
-- Company: [orbiq.nl](https://orbiq.nl)
 - LinkedIn: https://www.linkedin.com/in/jcecure/
 - Blog: [europesovereign.com](https://europesovereign.com)
 
